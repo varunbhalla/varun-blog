@@ -8,6 +8,7 @@ fields:
     required: false
   label: Heading
   description: The text displayed in the hero
+  hidden: true
 - name: maxWidthPX
   type: number
   label: Max Width
@@ -18,3 +19,4 @@ fields:
     min: 
     max: 
     step: 
+  hidden: true
