@@ -6,5 +6,10 @@ seo:
   image: ''
 heading: ''
 maxWidthPX: 
+authors: []
+title: ''
+excerpt: ''
+date: 
+timeToRead: 
 
 ---
