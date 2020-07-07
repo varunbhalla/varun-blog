@@ -20,3 +20,5 @@ fields:
     max: 
     step: 
   hidden: true
+pages:
+- content/_index.md

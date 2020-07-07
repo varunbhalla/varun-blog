@@ -5,11 +5,11 @@ hero:
 seo:
   image: ''
 heading: ''
-maxWidthPX: 
+maxWidthPX: 652
 authors: []
 title: ''
 excerpt: ''
-date: 
-timeToRead: 
+date: ''
+timeToRead: '2'
 
 ---
